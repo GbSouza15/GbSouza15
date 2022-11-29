@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, eu sou Gabriel! 👋
+Tenho 18 ano, estudo no programa Explorer da Rocketseat e estou cursando Ciência da Computação. Minhas principais competências são:
 
-<!--
-**GbSouza15/GbSouza15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho em equipe, boa comunicação, empatia e cordialidade, facilidade em se adaptar e aprender novas funções.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gbsouza15.github.io/My-Portfolio/) </br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-14a836227/)
+
+
+## 🛠 Habilidades
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40"/>
+          
