@@ -1,5 +1,5 @@
 # Olá, eu sou Gabriel! 👋
-Tenho 19 ano, estudo no programa Explorer da Rocketseat e estou cursando Ciência da Computação. Minhas principais competências são:
+Tenho 19 ano, estudo no programa Explorer da Rocketseat e estou cursando Ciência da Computação. Minhas principais competências são =>
 
 Trabalho em equipe, boa comunicação, empatia e cordialidade, facilidade em se adaptar e aprender novas funções.
 
