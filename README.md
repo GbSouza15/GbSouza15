@@ -5,7 +5,6 @@ Trabalho em equipe, boa comunicação, empatia e cordialidade, facilidade em se 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gbsouza15.github.io/My-Portfolio/) </br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-14a836227/)
 
 
