@@ -1,12 +1,2 @@
-# Olá, eu sou Gabriel! 👋
-Tenho 19 anos, estudo no programa Explorer da Rocketseat e estou cursando Ciência da Computação. Minhas principais competências são =>
-
-Trabalho em equipe, boa comunicação, empatia e cordialidade, facilidade em se adaptar e aprender novas funções.
-
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-14a836227/)
-
-
-## 🛠 Habilidades
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40" height="40"/>
